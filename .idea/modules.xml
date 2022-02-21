@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-onlinetest-client/app-onlinetest-client.iml" filepath="$PROJECT_DIR$/app-onlinetest-client/app-onlinetest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-onlinetest-server/app-onlinetest-server.iml" filepath="$PROJECT_DIR$/app-onlinetest-server/app-onlinetest-server.iml" />
+    </modules>
+  </component>
+</project>
